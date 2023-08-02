@@ -1,0 +1,34 @@
+/* Estilo para el bloque con categoría "Nacional" */
+div.category-nacional {
+    background-color: #00B049;
+    color: #FFFFFF;
+}
+
+/* Estilo para el bloque con categoría "Entretenimiento" */
+div.category-entretenimiento {
+    background-color: #FFC915;
+    color: #FFFFFF;
+}
+
+/* Estilo para el bloque con categoría "Tecnología" */
+div.category-tecnologia {
+    background-color: #00D3F8;
+    color: #FFFFFF;
+}
+
+/* Estilo para el bloque con categoría "Mascotas" */
+div.category-mascotas {
+    background-color: #90456D;
+    color: #FFFFFF;
+}
+
+/* Estilo para el bloque con categoría "Deportes" */
+div.category-deportes {
+    background-color: #FF372C;
+    color: #FFFFFF;
+}
+
+/* Estilo predeterminado para páginas y otros bloques sin categoría */
+div.plug-carso-block {
+    /* Estilos predeterminados aquí */
+}
